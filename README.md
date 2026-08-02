@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence and Data Science | Python Developer | Java Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;AI/DS+Student;Python+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;AI+%26+Data+Science;Python+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
