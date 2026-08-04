@@ -12,7 +12,7 @@
 - 🎓 Artificial Intelligence and Data Science Student
 - ☕ Passionate about Java Development | 🐍 Python Development
 - 🌱 Currently Learning Java, JDBC, Servlets & JSP
-- 🚀 Next Goal: Spring Boot & Microservices
+- 🚀 Next Goal: Hibernate, Spring Boot & Microservices
 - 💻 Love Building Real World Projects
 - 📚 Always Exploring New Technologies
 
