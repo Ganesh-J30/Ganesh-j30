@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Jadhav</h1>
+<h1 align="center">Hi <img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px" height="35px">, I'm Ganesh Jadhav</h1>
 <h3 align="center">Artificial Intelligence and Data Science | Python Developer | Java Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
