@@ -22,18 +22,18 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=maven" />
-<img src="https://skillicons.dev/icons?i=hibernate" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
+<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="40" alt="Apache Tomcat" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 
 </p>
 
