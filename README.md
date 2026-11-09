@@ -27,6 +27,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
 <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="40" alt="Apache Tomcat" />
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
